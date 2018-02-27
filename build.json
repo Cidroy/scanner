@@ -1,0 +1,11 @@
+{
+  "android": {
+    "release": {
+      "storePassword": "alpha123",
+      "password": "alpha123",
+      "alias": "eventninjaz",
+      "keystore": "eventninjaz.keystore",
+      "keystoreType": ""
+    }
+  }
+}
