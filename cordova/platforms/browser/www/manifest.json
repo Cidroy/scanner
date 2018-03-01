@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Rangholic Scanner",
+  "short_name": "Rangholic Scanner",
+  "version": "com.eventninjaz.rangholic",
+  "description": "Barcode Scanner for EventNinjaz that utilises Maple + Wordpress based plugins",
+  "author": "Rinzler D. Vicky",
+  "icons": [],
+  "start_url": "index.html"
+}

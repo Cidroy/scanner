@@ -21,6 +21,11 @@ Vue.config.productionTip = false
 
 Vue.prototype.$app = require('./scripts').default
 
+var cordovaScript = document.createElement('script')
+cordovaScript.setAttribute('type', 'text/javascript')
+cordovaScript.setAttribute('src', 'cordova.js')
+document.body.appendChild(cordovaScript)
+
 /* eslint-disable no-new */
 const app = new Vue({
   el: '#app',

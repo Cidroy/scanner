@@ -4,6 +4,9 @@
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="BarcodeScanner">
+        <param name="android-package" value="com.phonegap.plugins.barcodescanner.BarcodeScanner" />
+    </feature>
     <name>Rangholic Scanner</name>
     <description>Barcode Scanner for EventNinjaz that utilises Maple + Wordpress based plugins</description>
     <author email="vicky@rubixcode.com" href="https://rubixcode.com">Rinzler D. Vicky</author>

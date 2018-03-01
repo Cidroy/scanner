@@ -4,14 +4,18 @@
   "displayName": "ninjaz-scanner",
   "cordova": {
     "platforms": [
-      "android"
+      "android",
+      "browser"
     ],
     "plugins": {
-      "cordova-plugin-whitelist": {}
+      "cordova-plugin-whitelist": {},
+      "phonegap-plugin-barcodescanner": {}
     }
   },
   "dependencies": {
     "cordova-android": "~7.0.0",
-    "cordova-plugin-whitelist": "1"
+    "cordova-browser": "^5.0.3",
+    "cordova-plugin-whitelist": "1",
+    "phonegap-plugin-barcodescanner": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git"
   }
 }

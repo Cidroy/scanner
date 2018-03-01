@@ -1,6 +1,7 @@
 <template>
 	<div>
 		Hello world
+		<v-btn color="primary" @click="scan" v-text="'scan bitches'"></v-btn>
 		<router-link :to="{name:'Hello'}">Link</router-link>
 	</div>
 </template>
@@ -12,6 +13,13 @@
 			name: 'Index',
 			path: '/',
 		},
-		data: () => ({})
+		data: () => ({}),
+		methods: {
+			scan(){
+				this.$app.barcodeScanner()
+					.then(data => console.log(data))
+					.catch(e => console.error(e))
+			}
+		}
 	}
 </script>
