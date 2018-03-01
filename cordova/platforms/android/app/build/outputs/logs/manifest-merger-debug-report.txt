@@ -4,15 +4,18 @@ ADDED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 1
 INJECTED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
 INJECTED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
 INJECTED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
-MERGED from [com.android.support:support-v4:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/d98e0f78e03c7b934c447ddf48460597/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/eb01e1743cc746aeee5cb954e304fb80/AndroidManifest.xml:17:1-22:12
 MERGED from [:barcodescanner-release-2.1.5:] /home/rinzler/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/6ca451a7221b7585e27d151ee5571780/AndroidManifest.xml:2:1-14:12
 MERGED from [:CordovaLib] /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d2a07ed2af39d003c5e6bc3e2890b7ea/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5195b26f3331f0cba33c3b4481e79034/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/08869bc57ac9ec7f750b7a0d84892d07/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/41de02a0ff3edb2a801736130f41d358/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c3cead02bf03f2d8022cc1999062ced6/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/rinzler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6af54e156fd4ebd8d51d76680d6168ee/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2b40f8ce514e4955d3df28ba9ace470/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f33efad145254cc8c36da76ef32a8b36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/412dd6813b807a5e111c11b2ca6233f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/c3c553d25781ff7c36599074daca2dc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/3f3cbee412292adc79f2d3c3ef18f44b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e3b0c4885922cb6cdda5f870b8d3869/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2a5304bb3d2d1b5d592d2d3b32fb03b4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d0942180de497f23398f21b845cbe539/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d9543c3e567ee40ce668ede03cf77035/AndroidManifest.xml:17:1-22:12
 INJECTED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
 INJECTED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
 INJECTED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/src/main/AndroidManifest.xml:2:1-19:12
@@ -110,24 +113,30 @@ ADDED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 1
 		ADDED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/src/main/AndroidManifest.xml:13:41-109
 uses-sdk
 ADDED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/src/main/AndroidManifest.xml:15:5-74
-MERGED from [com.android.support:support-v4:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/d98e0f78e03c7b934c447ddf48460597/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/d98e0f78e03c7b934c447ddf48460597/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/eb01e1743cc746aeee5cb954e304fb80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/eb01e1743cc746aeee5cb954e304fb80/AndroidManifest.xml:20:5-44
 MERGED from [:barcodescanner-release-2.1.5:] /home/rinzler/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/6ca451a7221b7585e27d151ee5571780/AndroidManifest.xml:7:5-9:41
 MERGED from [:barcodescanner-release-2.1.5:] /home/rinzler/.gradle/caches/transforms-1/files-1.1/barcodescanner-release-2.1.5.aar/6ca451a7221b7585e27d151ee5571780/AndroidManifest.xml:7:5-9:41
 MERGED from [:CordovaLib] /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
 MERGED from [:CordovaLib] /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d2a07ed2af39d003c5e6bc3e2890b7ea/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d2a07ed2af39d003c5e6bc3e2890b7ea/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5195b26f3331f0cba33c3b4481e79034/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5195b26f3331f0cba33c3b4481e79034/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/08869bc57ac9ec7f750b7a0d84892d07/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/08869bc57ac9ec7f750b7a0d84892d07/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/41de02a0ff3edb2a801736130f41d358/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/41de02a0ff3edb2a801736130f41d358/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c3cead02bf03f2d8022cc1999062ced6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c3cead02bf03f2d8022cc1999062ced6/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/rinzler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6af54e156fd4ebd8d51d76680d6168ee/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/rinzler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/6af54e156fd4ebd8d51d76680d6168ee/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2b40f8ce514e4955d3df28ba9ace470/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2b40f8ce514e4955d3df28ba9ace470/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f33efad145254cc8c36da76ef32a8b36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f33efad145254cc8c36da76ef32a8b36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/412dd6813b807a5e111c11b2ca6233f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/412dd6813b807a5e111c11b2ca6233f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/c3c553d25781ff7c36599074daca2dc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/c3c553d25781ff7c36599074daca2dc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/3f3cbee412292adc79f2d3c3ef18f44b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/3f3cbee412292adc79f2d3c3ef18f44b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e3b0c4885922cb6cdda5f870b8d3869/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e3b0c4885922cb6cdda5f870b8d3869/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2a5304bb3d2d1b5d592d2d3b32fb03b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/2a5304bb3d2d1b5d592d2d3b32fb03b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d0942180de497f23398f21b845cbe539/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d0942180de497f23398f21b845cbe539/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d9543c3e567ee40ce668ede03cf77035/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/rinzler/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d9543c3e567ee40ce668ede03cf77035/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		ADDED from /media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/src/main/AndroidManifest.xml:15:42-71
 	android:minSdkVersion

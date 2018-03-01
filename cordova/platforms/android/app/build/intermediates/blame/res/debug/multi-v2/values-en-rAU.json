@@ -4,7 +4,7 @@
             "outputFile": "/media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/home/rinzler/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c3cead02bf03f2d8022cc1999062ced6/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/home/rinzler/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/3f3cbee412292adc79f2d3c3ef18f44b/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

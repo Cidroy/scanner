@@ -17,8 +17,8 @@
 		methods: {
 			scan(){
 				this.$app.barcodeScanner()
-					.then(data => console.log(data))
-					.catch(e => console.error(e))
+					.then(data => alert(JSON.stringify(data)))
+					.catch(e => alert(e))
 			}
 		}
 	}

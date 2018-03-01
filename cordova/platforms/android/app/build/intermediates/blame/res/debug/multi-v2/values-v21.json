@@ -4,7 +4,7 @@
             "outputFile": "/media/rinzler/Backup/Jobs/J35 - EventNinjaz Entry Scanner - 26 FEB 18/app/cordova/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/home/rinzler/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/c3cead02bf03f2d8022cc1999062ced6/res/values-v21/values-v21.xml",
+                    "source": "/home/rinzler/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/3f3cbee412292adc79f2d3c3ef18f44b/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/rinzler/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/d2a07ed2af39d003c5e6bc3e2890b7ea/res/values-v21/values-v21.xml",
+                    "source": "/home/rinzler/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/a2b40f8ce514e4955d3df28ba9ace470/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",

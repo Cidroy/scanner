@@ -8,7 +8,7 @@
   },
   "installed_plugins": {
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.eventninjaz"
+      "PACKAGE_NAME": "com.eventninjaz.rangholic"
     },
     "phonegap-plugin-barcodescanner": {
       "PACKAGE_NAME": "com.eventninjaz.rangholic"
