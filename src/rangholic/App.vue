@@ -1,13 +1,13 @@
 <template>
 	<v-app dark>
 		<transition name="slide-y-transition">
-			<div class="z-1 elevation-3">
+			<!--div class="z-1 elevation-3">
 				<v-toolbar>
 					<v-spacer></v-spacer>
 					<label style="font-size:x-large;padding:5px;">App</label>
 					<v-spacer></v-spacer>
 				</v-toolbar>
-			</div>
+			</div-->
 		</transition>
 		<main >
 			<transition name="slide-x-transition">
@@ -30,6 +30,9 @@
 
 <script>
 	export default {
-		data: () => ({})
+		data: () => ({}),
+		created () {
+			this.$store.dispatch('ninjaRefresh')
+		}
 	}
 </script>

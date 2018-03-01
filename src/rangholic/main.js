@@ -1,11 +1,13 @@
 import Vue from 'vue'
 import Vuetify from 'vuetify'
 import 'vuetify/dist/vuetify.css'
+import VueTimeago from 'vue-timeago'
 
 import '@/modules/transitions/transitions.css'
 
 import App from './App'
 import router from './router'
+import store from './store'
 
 import directives from '@/modules/directives'
 
@@ -14,6 +16,15 @@ for (const i in directives) {
 	if(directives.hasOwnProperty(i))
 		Vue.directive(i,directives[i])
 }
+
+Vue.use(VueTimeago, {
+	name: "timeago", // component name, `timeago` by default
+	locale: "en-US",
+	locales: {
+		// you will need json-loader in webpack 1
+		"en-US": require("vue-timeago/locales/en-US.json")
+	}
+})
 
 Vue.use(Vuetify)
 
@@ -30,6 +41,7 @@ document.body.appendChild(cordovaScript)
 const app = new Vue({
   el: '#app',
   router,
+  store,
   render: h => h(App),
   data: { router_loading: false }
 })
