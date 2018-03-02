@@ -36,3 +36,30 @@
 		}
 	}
 </script>
+
+<style>
+  .page-bg {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    max-height: 100vh;
+    max-width: 100vw;
+    min-height: 100vh;
+    min-width: 100vw;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+  }
+
+  .page-bg>img {
+    height: 100vh;
+    display: block;
+    position: absolute;
+    top: -9999px;
+    bottom: -9999px;
+    left: -9999px;
+    right: -9999px;
+    margin: auto;
+  }
+
+</style>
